@@ -3,7 +3,7 @@
 export const ProductsData = [
   {
     id: 1,
-    title: "Silk Evening Gown",
+    Title: "Silk Evening Gown",
     category: "Gown",
     price: "$129.99",
     rating: "4.8",
@@ -12,7 +12,7 @@ export const ProductsData = [
   },
   {
     id: 2,
-    title: "Classic Cotton Shirt",
+    Title: "Classic Cotton ",
     category: "Shirt",
     price: "$49.99",
     rating: "4.5",
@@ -21,7 +21,7 @@ export const ProductsData = [
   },
   {
     id: 3,
-    title: "Utility Cargo Knickers",
+    Title: "Utility Cargo Knicker",
     category: "Nickers",
     price: "$39.99",
     rating: "4.3",
@@ -30,7 +30,7 @@ export const ProductsData = [
   },
   {
     id: 4,
-    title: "Vintage Denim Jacket",
+    Title: "Vintage Denim Jacket",
     category: "Jacket",
     price: "$89.99",
     rating: "4.9",
@@ -39,7 +39,7 @@ export const ProductsData = [
   },
   {
     id: 5,
-    title: "Oversized Fleece Hoodie",
+    Title: " Fleece Hoodie",
     category: "Hoodie",
     price: "$64.99",
     rating: "4.7",
@@ -48,7 +48,7 @@ export const ProductsData = [
   },
   {
     id: 6,
-    title: "Urban Minimalist Sneakers",
+    Title: "Urban Minimalist Sneakers",
     category: "Shoes",
     price: "$110.00",
     rating: "4.6",
